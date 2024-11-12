@@ -52,7 +52,7 @@ html {
 
 /* Style the "active" element to highlight the current page */
 .topnav a.active {
-  background-color: #15c93c;
+  background-color: hsl(163, 81%, 44%);
   
 }
 
@@ -86,7 +86,7 @@ html {
 	text-align: left;
 	font-size: 20px;
 	
-	background-color: #15c93c;
+	background-color: #15c96c;
 	
   	
 	
@@ -100,7 +100,7 @@ html {
 
 .navbar
 {
-	background-color: #15c93c;
+	background-color: #15c969;
 	margin-bottom: 0px;
 	
 }
